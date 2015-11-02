@@ -1,1 +1,1 @@
-# java-7-concurrency
+# Java 7 Concurrency Book Examples Practice
